@@ -1,6 +1,7 @@
 # Temp test script
 test.py
 DLJY.py
+resources/
 # Temp resources for testing
 resources_temp/
 streamlit_app/data/*
